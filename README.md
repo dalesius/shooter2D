@@ -3,8 +3,11 @@ A Shooter 2D written entirely in Javascript. It is using the Canvas API and no e
 
 ### Keys
 RIGHT ARROW - Move right
+
 LEFT ARROW - Move left
+
 UP ARROW - Jump
+
 SPACE BAR - Shoot
 
 #### Final words
