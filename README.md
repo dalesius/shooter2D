@@ -1,6 +1,8 @@
 # Shooter 2D
 A Shooter 2D written entirely in Javascript. It is using the Canvas API and no external libraries. The goal of this single level game is to kill all the enemies in the screen by shooting them (wasn't expecting that right?) If you touch an enemy or a bird's poop you... die...
 
+if you want to play it right away, click here: https://dalesius.github.io
+
 ### Keys
 RIGHT ARROW - Move right
 
