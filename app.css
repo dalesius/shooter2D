@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+}
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #000000;
+  display: grid;
+  height: 100%;
+  width: 100%;
+}
+canvas {
+  align-self: center;
+  justify-self: center;
+  background: #eee;
+  width: 600;
+  height: 500;
+}
